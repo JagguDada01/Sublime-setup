@@ -1,5 +1,7 @@
 # Sublime Text Competitive Programming Setup Guide
 
+This repository contains the files and instructions needed to set up Sublime Text for competitive programming on Mac, including a custom build system, layout script, and a visual PDF guide.
+
 ## Page 1 - Install GCC
 
 Open Terminal and run:
