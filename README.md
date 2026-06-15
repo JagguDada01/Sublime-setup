@@ -173,6 +173,10 @@ outputf.out
 
 Happy Coding!
 
+## Visual Guide
+
+If you want a visual walkthrough, open [sublime_setup_Guide.pdf](sublime_setup_Guide.pdf).
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
