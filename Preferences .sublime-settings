@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"dark_color_scheme": "Monokai.sublime-color-scheme",
+	"light_color_scheme": "Monokai.sublime-color-scheme",
+	"theme": "Default Dark.sublime-theme",
+
+    "hot_exit": true,
+    "remember_open_files": true,
+    "create_window_at_startup": false,
+
+	"font_size": 16,
+}
